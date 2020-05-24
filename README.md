@@ -25,6 +25,17 @@ This template use Limenius React Bundle like provider of props and webpack encor
 - [LimeniusReactBundle](https://github.com/Limenius/ReactBundle/blob/master/Resources/doc/index.md)
 - [WebpackEncore](https://symfony.com/doc/current/frontend.html#webpack-encore)
 
+## Test
+
+1. Run script to compile js files :
+```bash 
+yarn run build-devall
+```
+2. Run via symfony cli to serve our server :
+```bash 
+symfony sever:start
+```
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 

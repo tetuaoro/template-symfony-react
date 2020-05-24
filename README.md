@@ -1,0 +1,1 @@
+# Template Symfony React
